@@ -4,11 +4,35 @@ En este trabajo practico hemos desarrollado una investigacion sobre el arbolado 
 
 ## Modo de uso
 
-Si tenes Linux o Mac:
-Una vez descargado el repositorio, ejecutar en la terminal el comando "chmod +x run.sh", luego el script "./run.sh" para crear el ambiente virtual e instalar dependencias
+**Si tenes Linux o Mac:**
 
-Si tenes Windows:
-Una vez descargado el repositorio, ejecutar el script "./run.bat" para crear el ambiente virtual e instalar dependencias
+*Paso 1: Crear el ambiente virtual:*
+```bash
+python3 -m venv tpespecial
+```
+*Paso 2: Activar ambiente virtual*
+
+```bash
+source tpespecial/bin/activate
+```
+*Paso 3: Descargar dependencias*
+```bash
+pip install -r requirements.txt
+```
+**Si tenes Windows:**
+
+*Paso 1: Crear ambiente virtual*
+```bash
+python -m venv tpespecial
+```
+*Paso 2: Activar ambiente virtual*
+```bash
+.\tpespecial\Scripts\activate
+```
+*Paso 3: Descargar dependencias*
+```bash
+pip install -r requirements.txt
+```
 
 Luego, la mejor parte, abrir el TPEL.ipynb y ejecutarlo en orden.
 
@@ -21,3 +45,8 @@ Esperemos que hayan disfrutado de este trabajo practico y que hayan aprendido al
 - Adaglio, Luciano
 - Angladette, Nicolás
 - Lopez, Agustin
+
+
+## Tareas
+
+- Poner lineas de buena cantidad, mala y sobrepoblado -> Hipotesis 3
