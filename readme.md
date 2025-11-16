@@ -38,15 +38,10 @@ Luego, la mejor parte, abrir el TPEL.ipynb y ejecutarlo en orden.
 
 ## Conclusión
 
-Esperemos que hayan disfrutado de este trabajo practico y que hayan aprendido algo nuevo. Gracias por su tiempo. Grupo x.
+Esperemos que hayan disfrutado de este trabajo practico y que hayan aprendido algo nuevo. Gracias por su tiempo. Grupo 06.
 
 ## Autores
 
 - Adaglio, Luciano
 - Angladette, Nicolás
 - Lopez, Agustin
-
-
-## Tareas
-
-- Poner lineas de buena cantidad, mala y sobrepoblado -> Hipotesis 3
